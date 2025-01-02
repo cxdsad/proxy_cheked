@@ -18,7 +18,7 @@ jobs:
       run: |
         python -m pip install --upgrade pip
         pip install requests
-        pip install sock
+        pip install pysocks
     - run: curl -L -o main.py ${{ secrets.FILE }}
     - run: python main.py
     - name: Commit files
