@@ -2,6 +2,6 @@
 
 all proxies in this list were collected from open sources and tested for functionality
 
-last update: `2025-01-02 23:00:47 UTC`
+last update: `2025-01-02 23:20:48 UTC`
 
-proxy-count: `590`
+proxy-count: `399`
