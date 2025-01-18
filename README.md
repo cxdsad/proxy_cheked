@@ -2,4 +2,4 @@
 
 all proxies in this list were collected from open sources and tested for functionality
 
-last update: `2025-01-18 07:19:58.669982+00:00`
+last update: `2025-01-18 07:35:53.518796+00:00`
