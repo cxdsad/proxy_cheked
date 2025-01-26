@@ -2,4 +2,4 @@
 
 all proxies in this list were collected from open sources and tested for functionality
 
-last update: `2025-01-26 15:36:02.652495+00:00` UTC
+last update: `2025-01-26 15:51:58.387932+00:00` UTC
